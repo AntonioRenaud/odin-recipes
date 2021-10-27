@@ -1,4 +1,1 @@
-This is the first actual project i'll be doing under TheOdinProject guidance, as a refresh
-of my WebDev skills. This it's supposed to be a recipes site, although at first it will be
-only at HTML.
-
+My first project here at The Odin Project. I took the recipes from https://www.allrecipes.com.
