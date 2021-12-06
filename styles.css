@@ -1,0 +1,53 @@
+h1 {
+  background-color: limegreen;    
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  background-color:aqua;    
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+}
+
+li {
+    font-size: 20px;
+    
+  }
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+  }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: auto;
+  }
+
+ol p {
+  font-size: 20px;
+  text-align: inherit;
+}
+
+h3 {
+  font-size: 15px;
+  background-color: lemonchiffon;
+  text-align: center;
+}
